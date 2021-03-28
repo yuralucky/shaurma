@@ -1,0 +1,15 @@
+{
+  "name": "yuriy/shaurma",
+  "authors": [
+    {
+      "name": "yuriy",
+      "email": "yuralucky83@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Main\\": "src/"
+    }
+  }
+}
